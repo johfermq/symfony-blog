@@ -1,0 +1,14 @@
+#index:
+#    path: /
+#    controller: App\Controller\DefaultController::index
+
+#posts_index
+#    path: /posts
+#    controller: App\Controller\PostController::index
+#    methods: GET
+
+#posts_show:
+#    path: /posts/{id}
+#    controller: App\Controller\PostController::show
+#    methods: GET
+
